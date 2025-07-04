@@ -47,11 +47,3 @@ In the digital era, counterfeit logos pose a significant threat to brand reputat
 
 > Add screenshots of your app here for better visibility.
 
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone the Repo**
-   ```bash
-   git clone https://github.com/your-username/fake-logo-detection.git
-   cd fake-logo-detection
